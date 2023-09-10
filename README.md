@@ -1,4 +1,4 @@
-#Attack On Shortest Vector Problem of Post-Quantum Cryptography Using ML(KNN)
+# Attack On Shortest Vector Problem of Post-Quantum Cryptography Using ML(KNN)
 
 In this paper, we studied the attack on Shortest Vector Problem (SVP) of Lattice using the Machine Learning (ML) algorithm with KNN. The prime number factoring assumption or the presumption that the discrete logarithm problem is intractable are the two assumptions that underlie nearly all cryptographic security systems, including RSA and DSA. Lattice-based cryptography has recently gained popularity as a means of improving security as worldwide prepares for the onset of quantum computing. Lattices are used to secure the systems; however, one of the problems is the Shortest Vector Problem. We addressed in this work the attack on lattice problems, especially two-dimensional problems, with the help of the machine learning algorithm K-Nearest Neighbour (KNN). Results and analysis findings demonstrate that the suggested approach can achieve accuracy of up to 60% on self-prepared datasets.
 
