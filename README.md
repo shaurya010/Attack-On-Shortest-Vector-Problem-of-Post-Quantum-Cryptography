@@ -7,7 +7,7 @@
   <h1>🔐 Attack on Lattice Shortest Vector Problem using K-Nearest Neighbour</h1>
   <p>
     This repository contains research work and implementation details from the paper 
-    <b>"Attack on Lattice Shortest Vector Problem using K-Nearest Neighbour"</b>.
+    <b>"Attack on Lattice Shortest Vector Problem using K-Nearest Neighbour" & "Attack on Shortest Vector Problem of Lattice Using Machine Learning"</b>.
   </p>
 
   <h2>📖 Abstract</h2>
@@ -39,15 +39,6 @@
     Shortest Vector Problem (SVP), Lattice-based Cryptography (LBC), 
     K-Nearest Neighbour (KNN), Post-Quantum Cryptography (PQC), Euclidean Distance.
   </p>
-
-  <h2>👥 Authors</h2>
-  <ul>
-    <li>Shaurya Pratap Singh</li>
-    <li>Brijesh Kumar Chaurasia</li>
-    <li>Tanmay Tripathi</li>
-    <li>Ayush Pal</li>
-    <li>Siddharth Gupta</li>
-  </ul>
 
   <h2>📌 Citation</h2>
   <p>
