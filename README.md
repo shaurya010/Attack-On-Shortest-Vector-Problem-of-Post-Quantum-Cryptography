@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Attack on Lattice SVP using KNN</title>
+ 
 </head>
 <body>
   <h1>🔐 Attack on Lattice Shortest Vector Problem using K-Nearest Neighbour</h1>
